@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "g++ run/debug",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\env_cpp\\w64devkit\\bin\\gdb.exe",
+      "preLaunchTask": "g++ complie"
+    }
+  ],
+  "version": "2.0.0"
+}
