@@ -11,7 +11,7 @@
       "environment": [],
       "externalConsole": false,
       "MIMode": "gdb",
-      "miDebuggerPath": "C:\\env_cpp\\w64devkit\\bin\\gdb.exe",
+      "miDebuggerPath": "C:\\env_cpp\\mingw64\\bin\\gdb.exe",
       "preLaunchTask": "g++ complie"
     }
   ],

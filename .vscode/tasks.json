@@ -4,7 +4,7 @@
 		{
 			"type": "cppbuild",
 			"label": "g++ complie",
-			"command": "C:\\env_cpp\\w64devkit\\bin\\g++.exe",
+			"command": "C:\\env_cpp\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-fdiagnostics-color=always",
 				"-g",
